@@ -19,7 +19,7 @@ const HeroSection = () => {
           <br />
           <NavLink to="/products">
             <button className="bg-blue-400 rounded mt-6 text-3xl">
-              SHOP NOW
+              <h1 className=" m-3"> SHOP NOW </h1>
             </button>
           </NavLink>
         </p>
