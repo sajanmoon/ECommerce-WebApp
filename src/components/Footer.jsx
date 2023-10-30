@@ -3,7 +3,7 @@ import {
   AiFillLinkedin,
   AiFillTwitterSquare,
   AiFillGithub,
-} from "react-icons/Ai";
+} from "react-icons/ai";
 
 const Footer = () => {
   return (
