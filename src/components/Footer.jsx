@@ -8,7 +8,7 @@ import {
 const Footer = () => {
   return (
     <>
-      <div className="bg-[#FCF5ED] grid place-content-center p-4  bottom-0 left-0 right-0">
+      <div className="bg-[#FCF5ED] grid place-content-center p-4 bottom-0 left-0 right-0">
         <div className="links flex space-x-4 text-3xl mx-auto max-w-7xl">
           <div>
             <a href="https://www.linkedin.com/in/sajan-moon/" target="_blank">
