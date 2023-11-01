@@ -19,7 +19,6 @@ const SingleProduct = () => {
     stock,
     image,
   } = singleProduct;
-  console.log(singleProduct);
   const { id } = useParams();
   console.log(id);
 

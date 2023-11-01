@@ -1,5 +1,10 @@
 const FilterReducer = (state, action) => {
   switch (action.type) {
+    case "SET_LOADING":
+      return {
+        ...state,
+        isLoading: true,
+      };
     case "LOAD_FILTER_PRODUCTS":
       return {
         ...state,

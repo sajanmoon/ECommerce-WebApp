@@ -3,7 +3,9 @@ import { useProductContext } from "./ProductContext";
 import reducer from "../Reducers/FilterReducer";
 
 const FilterContext = createContext();
+
 const initailState = {
+  isLoading: false,
   filter_products: [],
   all_products: [],
   grid_view: true,
