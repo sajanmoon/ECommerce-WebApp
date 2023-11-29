@@ -8,13 +8,13 @@ const Products = () => {
   // const { filter_products } = useFilterContext();
   return (
     <div className="container ">
-      <div className="left">
+      {/* <div className="left">
         <FilterSection />
-      </div>
+      </div> */}
       <div className="right">
-        <div className="sort">
+        {/* <div className="sort">
           <Sort />
-        </div>
+        </div> */}
         <div className="product">
           <ProductList />
         </div>

@@ -13,7 +13,7 @@ const HeroSection = () => {
           <span>
             Discover the Future of Electronics: Unleash Innovation, Immerse in
             Unparalleled Quality. Experience our cutting-edge technology and
-            elevate your everyday with Gada Electronics. Explore the
+            elevate your everyday with GadgetHub. Explore the
             extraordinary today.
           </span>
           <br />

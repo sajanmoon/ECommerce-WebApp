@@ -13,7 +13,7 @@ const Navbar = () => {
           <NavLink to="/cart" className="flex">
             <FiShoppingCart className="text-4xl" />
             <span className="absolute bg-[#fff] text-black text-[18px] rounded-full grid place-items-center mx-7 -my-1">
-              10
+            
             </span>
           </NavLink>
         </li>
